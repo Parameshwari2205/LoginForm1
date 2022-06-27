@@ -1,0 +1,42 @@
+body
+{ background: skyblue;
+   font-style: italic; }
+.register
+{
+	width: 300pt;
+	margin: auto;
+	margin: 20 0 0 400pt;
+	padding: 50pt;
+	border-radius: 10pt;
+	background: black;
+	color: white;
+}
+h2
+{
+	text-align: center;
+	color:white;
+	
+}
+#psw
+{  width:300px;
+	height: 30px;
+	border: none;
+	border-radius: 3px;
+	padding-left: 8px;
+  }
+#UName
+{
+	width:300px;
+	height: 30px;
+	border: none;
+	border-radius: 3px;
+	padding-left: 8px;
+}
+#mail
+{
+	width:300px;
+	height: 30px;
+	border: none;
+	border-radius: 3px;
+	padding-left: 8px;
+}
